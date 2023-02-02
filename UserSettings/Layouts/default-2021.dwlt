@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1356.6667
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 36
+  controlID: 109
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 37
+  controlID: 95
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 105
+  controlID: 96
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -318,13 +318,13 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/_Course Library/_Prefabs/Objects/Candles
+    - Assets/_Course Library/_Prefabs/Rugs
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/_Course Library/_Prefabs/Objects/Candles
+  - Assets/_Course Library/_Prefabs/Rugs
   m_LastFoldersGridSize: 96
   m_LastProjectPath: C:\Users\Jack Ryan\Desktop\Coding\School Vr Game\VR-Room --
     Jack Ryan
@@ -332,9 +332,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 95}
-    m_SelectedIDs: 649b0000
-    m_LastClickedID: 39780
-    m_ExpandedIDs: 00000000707500007275000074750000127700004a9b000000ca9a3bffffff7f
+    m_SelectedIDs: 40760000
+    m_LastClickedID: 30272
+    m_ExpandedIDs: 00000000b4750000b6750000b8750000be7500001476000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -362,7 +362,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000707500007275000074750000
+    m_ExpandedIDs: 00000000b4750000b6750000b8750000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -492,9 +492,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 5acbfeff2efbffff926f0000c46f0000
+      m_SelectedIDs: 706f0000
+      m_LastClickedID: 28528
+      m_ExpandedIDs: 1ca0ffff36faffff2efbffffaa6f0000b26f0000ee6f00000c7000001c7000003e700000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -510,7 +510,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 3}
+        m_ClientGUIView: {fileID: 4}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -744,9 +744,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.64309394, y: 0.45310622, z: 0.006384611}
+    m_Target: {x: -1.9192662, y: 2.5370147, z: -0.16102819}
     speed: 2
-    m_Value: {x: 0.6430942, y: 0.45310622, z: 0.006384665}
+    m_Value: {x: -1.9192662, y: 2.5370147, z: -0.16102819}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -793,13 +793,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.31361738, y: -0.5563777, z: 0.23875178, w: 0.73162496}
+    m_Target: {x: -0.19500796, y: -0.68291515, z: 0.19668217, w: -0.67611223}
     speed: 2
-    m_Value: {x: 0.3124901, y: -0.5566825, z: 0.2378942, w: 0.73202515}
+    m_Value: {x: -0.195282, y: -0.6818277, z: 0.19636856, w: -0.6770638}
   m_Size:
-    m_Target: 1.1965796
+    m_Target: 0.42988157
     speed: 2
-    m_Value: 1.1965795
+    m_Value: 0.42988157
   m_Ortho:
     m_Target: 0
     speed: 2
