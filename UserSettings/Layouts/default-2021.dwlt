@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 91
+  controlID: 88
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 501.33325
     height: 1306.6666
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 17
+  controlID: 19
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 104
+  controlID: 126
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -318,23 +318,23 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/XRI/Settings/Resources
+    - Assets/_Course Library/Scripts/Conditions
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/XRI/Settings/Resources
+  - Assets/_Course Library/Scripts/Conditions
   m_LastFoldersGridSize: 96
   m_LastProjectPath: C:\Users\Jack Ryan\Desktop\Coding\School Vr Game\VR-Room --
     Jack Ryan
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 244.33337}
-    m_SelectedIDs: ea8e0000
-    m_LastClickedID: 36586
-    m_ExpandedIDs: 00000000a4760000a6760000a8760000ae760000ce760000867c0000ec8e000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 223}
+    m_SelectedIDs: 52780000
+    m_LastClickedID: 30802
+    m_ExpandedIDs: 00000000b2760000b4760000b6760000667800009c78000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -362,7 +362,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a4760000a6760000a8760000
+    m_ExpandedIDs: 00000000b2760000b4760000b6760000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -494,7 +494,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 62f8ffff2efbffffc86f0000d06f00004e700000a2700000
+      m_ExpandedIDs: 9685ffffd291ffff3896ffff2efbffff746f0000c86f0000d06f0000e86f0000527000006c700000e8700000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -744,9 +744,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.31565928, y: 0.75108445, z: -0.6326319}
+    m_Target: {x: -0.13171583, y: 1.5315213, z: 1.9151553}
     speed: 2
-    m_Value: {x: -0.31565928, y: 0.75108445, z: -0.6326319}
+    m_Value: {x: -0.13171583, y: 1.5315213, z: 1.9151553}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -793,13 +793,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.22292726, y: -0.73016435, z: 0.2790977, w: 0.582747}
+    m_Target: {x: 0.12487475, y: -0.019498874, z: 0.0025478334, w: 0.99214834}
     speed: 2
-    m_Value: {x: 0.22289091, y: -0.7300453, z: 0.2790522, w: 0.582652}
+    m_Value: {x: 0.12485361, y: -0.019495573, z: 0.0025474022, w: 0.99198043}
   m_Size:
-    m_Target: 0.8660254
+    m_Target: 0.70710677
     speed: 2
-    m_Value: 0.8660254
+    m_Value: 0.70710677
   m_Ortho:
     m_Target: 0
     speed: 2
